@@ -1,5 +1,5 @@
 
-#Sublime Text 3 install Package Control failed
+# Sublime Text 3 install Package Control failed
 
 Package Control:There are no packages available for installation
 
