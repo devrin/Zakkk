@@ -3,6 +3,8 @@
 
 Package Control:There are no packages available for installation
 
+Download channel_v3.json failed
+
 
 #
 1.Goto Preferences > Package Settings > Package Control > Settings – User
